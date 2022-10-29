@@ -1,0 +1,12 @@
+.DS_STORE
+logs
+.sass-cache
+node_modules
+.env
+
+ui/web/build
+*.pid
+cache
+
+tags
+*.log

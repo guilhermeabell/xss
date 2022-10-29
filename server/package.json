@@ -1,0 +1,11 @@
+{
+    "name": "server-xss-tests",
+    "version": "0.0.1",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "nolicense",
+    "dependencies": {
+        "express": ""
+    }
+}
